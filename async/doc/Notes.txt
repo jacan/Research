@@ -1,0 +1,3 @@
+Notes about eventual progress or experiencees
+
+12-11-2017		Adding to GitHub for future collaborative work on Promise replacement
